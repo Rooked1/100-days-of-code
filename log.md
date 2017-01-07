@@ -24,4 +24,18 @@
 
 **Link(s) to work**: [Random Quote Generator]-http://codepen.io/Rooked1/pen/bpoZjO
 
+### Day 4: - 06 January 2017
 
+**Today's Progress**: Worked on FreeCodeCamp Local Weather App
+
+**Thoughts**: Spent time getting API data working from site
+
+**Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
+
+### Day 5: - 07 January 2017
+
+**Today's Progress**: Worked on FreeCodeCamp Local Weather App. Worked through pages on constructor functions.
+
+**Thoughts**: Need to keep refreshing javascipt while working on projects.
+
+**Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
