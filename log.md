@@ -39,3 +39,11 @@
 **Thoughts**: Need to keep refreshing javascipt while working on projects.
 
 **Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
+
+### Day 6: - 08 January 2017
+
+**Today's Progress**: Continued Working on FreeCodeCamp Local Weather App. Reviewed Bootstrapp grid creation.
+
+**Thoughts**: Need to keep chipping away every day, you will always make more progress on some days than others.
+
+**Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
