@@ -42,8 +42,16 @@
 
 ### Day 6: - 08 January 2017
 
-**Today's Progress**: Continued Working on FreeCodeCamp Local Weather App. Reviewed Bootstrapp grid creation.
+**Today's Progress**: Continued Working on FreeCodeCamp Local Weather App.
 
 **Thoughts**: Need to keep chipping away every day, you will always make more progress on some days than others.
+
+**Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
+
+### Day 7: - 09 January 2017
+
+**Today's Progress**: Reviewed basic Javascript on Freecodecamp. Stuck on geolocation.
+
+**Thoughts**: Felt really productive to review.Felt better understanding this time. Some things starting to fall into place.
 
 **Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
