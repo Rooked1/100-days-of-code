@@ -55,3 +55,9 @@
 **Thoughts**: Felt really productive to review.Felt better understanding this time. Some things starting to fall into place.
 
 **Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
+
+### Day 8: - 10 January 2017
+
+**Today's Progress**: Reviewed basic Javascript on Freecodecamp. Stuck on geolocation still.
+
+**Thoughts**: I am going to try and work on javascript challenges for a while. Bogged down in weather app.
