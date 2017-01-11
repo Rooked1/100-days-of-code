@@ -61,3 +61,9 @@
 **Today's Progress**: Reviewed basic Javascript on Freecodecamp. Stuck on geolocation still.
 
 **Thoughts**: I am going to try and work on javascript challenges for a while. Bogged down in weather app.
+
+### Day 8: - 11 January 2017
+
+**Today's Progress**: Finished Freecode Camp Javascript challenge 'Sum All Numbers In A Range'!!
+
+**Thoughts**: Need to work on fundamentals like prototype, just dont understand what it is for.
