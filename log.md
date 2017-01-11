@@ -62,7 +62,7 @@
 
 **Thoughts**: I am going to try and work on javascript challenges for a while. Bogged down in weather app.
 
-### Day 8: - 11 January 2017
+### Day 9: - 11 January 2017
 
 **Today's Progress**: Finished Freecode Camp Javascript challenge 'Sum All Numbers In A Range'!!
 
