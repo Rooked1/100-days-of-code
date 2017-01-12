@@ -67,3 +67,9 @@
 **Today's Progress**: Finished Freecode Camp Javascript challenge 'Sum All Numbers In A Range'!!
 
 **Thoughts**: Need to work on fundamentals like prototype, just dont understand what it is for.
+
+### Day 10: - 12 January 2017
+
+**Today's Progress**: Learned about objects, took a step back to understand prototype objects, concept not obvious!
+
+**Thoughts**: Progress is about doing the hard work to get the fundamentals correct.
