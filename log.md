@@ -73,3 +73,9 @@
 **Today's Progress**: Learned about objects, took a step back to understand prototype objects, concept not obvious!
 
 **Thoughts**: Progress is about doing the hard work to get the fundamentals correct.
+
+### Day 11: - 13 January 2017
+
+**Today's Progress**: Worked on freecodecamp challenge: Diff two Arrays. Learning to use filter().
+
+**Thoughts**: Need to alternate trying to push forward with reviewing material. Variation to stop me becoming discouraged.
