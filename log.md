@@ -36,7 +36,7 @@
 
 **Today's Progress**: Worked on FreeCodeCamp Local Weather App. Worked through pages on constructor functions.
 
-**Thoughts**: Need to keep refreshing javascipt while working on projects.
+**Thoughts**: Need to keep refreshing javascipt while working on projects.###
 
 **Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
 
@@ -79,3 +79,9 @@
 **Today's Progress**: Worked on freecodecamp challenge: Diff two Arrays. Learning to use filter().
 
 **Thoughts**: Need to alternate trying to push forward with reviewing material. Variation to stop me becoming discouraged.
+
+### Day 12: - 14 January 2017
+
+**Today's Progress**: Worked on freecodecamp challenge: Diff two Arrays again. Spent all my time trying to work out how why code didnt work!
+
+**Thoughts**: Dont worry if not much progress keep learning.
