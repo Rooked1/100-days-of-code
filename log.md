@@ -85,3 +85,11 @@
 **Today's Progress**: Worked on freecodecamp challenge: Diff two Arrays again. Spent all my time trying to work out how why code didnt work!
 
 **Thoughts**: Dont worry if not much progress keep learning.
+
+### Day 13: - 15 January 2017
+
+**Today's Progress**:Got Geolacation working in a different codepen to my weather challenge. Task is to combine it in next couple of days!
+
+**Thoughts**: Worked through geolocation API, just keeping chipping away.
+
+**Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
