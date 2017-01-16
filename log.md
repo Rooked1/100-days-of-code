@@ -93,3 +93,9 @@
 **Thoughts**: Worked through geolocation API, just keeping chipping away.
 
 **Link(s) to work**: [Local Weather App]-http://codepen.io/Rooked1/pen/Kzxadj
+
+### Day 14: - 16 January 2017
+
+**Today's Progress**: More reading about JSON and APIs. Continued working on weather app.
+
+**Thoughts**: The more I read the more time I realise need to spend on basics.
