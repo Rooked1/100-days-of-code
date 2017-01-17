@@ -100,7 +100,7 @@
 
 **Thoughts**: The more I read the more time I realise need to spend on basics.
 
-### Day 14: - 16 January 2017
+### Day 15: - 17 January 2017
 
 **Today's Progress**: Spent time today setting up code editor Atom. Read about the DOM (kind of dry!), still not sure if I understand.
 
