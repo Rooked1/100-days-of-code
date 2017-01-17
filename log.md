@@ -99,3 +99,9 @@
 **Today's Progress**: More reading about JSON and APIs. Continued working on weather app.
 
 **Thoughts**: The more I read the more time I realise need to spend on basics.
+
+### Day 14: - 16 January 2017
+
+**Today's Progress**: Spent time today setting up code editor Atom. Read about the DOM (kind of dry!), still not sure if I understand.
+
+**Thoughts**: Everyday is really pushing me on. Running code through the browser really showed progress is being made.
