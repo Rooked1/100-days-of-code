@@ -105,3 +105,11 @@
 **Today's Progress**: Spent time today setting up code editor Atom. Read about the DOM (kind of dry!), still not sure if I understand.
 
 **Thoughts**: Everyday is really pushing me on. Running code through the browser really showed progress is being made.
+
+### Day 16: - 18 January 2017
+
+**Today's Progress**: Finished challenge ' Diff of two nos' on freecodecamp! 
+
+**Thoughts**: Coding works if you really understand it and use it.
+
+**Link(s) to work**: [Local Weather App]- https://www.freecodecamp.com/map
