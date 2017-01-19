@@ -113,3 +113,11 @@
 **Thoughts**: Coding works if you really understand it and use it.
 
 **Link(s) to work**: [Local Weather App]- https://www.freecodecamp.com/map
+
+### Day 17: - 19 January 2017
+
+**Today's Progress**: Worked on challenge 'Roman Numeral Convertor'. Reviewed Basic CSS. 
+
+**Thoughts**: Hard work, just need to work every day.
+
+
