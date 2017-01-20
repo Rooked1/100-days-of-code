@@ -120,4 +120,10 @@
 
 **Thoughts**: Hard work, just need to work every day.
 
+### Day 18: - 20 January 2017
+
+**Today's Progress**: Worked on challenge 'Roman Numeral Convertor'. 
+
+**Thoughts**: Hard work, first real hard day.
+
 
