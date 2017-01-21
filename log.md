@@ -126,4 +126,10 @@
 
 **Thoughts**: Hard work, first real hard day.
 
+### Day 19: - 21 January 2017
+
+**Today's Progress**: Worked on challenge 'Roman Numeral Convertor' again. Got it working upto 100 (but not above!)
+
+**Thoughts**: Real good day, thinking on own.
+
 
