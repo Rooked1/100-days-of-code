@@ -132,4 +132,10 @@
 
 **Thoughts**: Real good day, thinking on own.
 
+### Day 20: - 22 January 2017
+
+**Today's Progress**: Finished 'Roman Numeral Convertor' challenge on freeCodeCamp! 
+
+**Thoughts**: Try code at various points to find bug.
+
 
