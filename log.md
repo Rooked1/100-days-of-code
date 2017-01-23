@@ -138,4 +138,8 @@
 
 **Thoughts**: Try code at various points to find bug.
 
+### Day 21: - 23 January 2017
 
+**Today's Progress**: Worked on 'Show Local Weather' challenge@freeCodeCamp. API need more understanding to manipulate data.
+
+**Thoughts**: Need to look at Ajax , looks like easier to manipulate API with this?
