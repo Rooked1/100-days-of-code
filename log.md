@@ -143,3 +143,11 @@
 **Today's Progress**: Worked on 'Show Local Weather' challenge@freeCodeCamp. API need more understanding to manipulate data.
 
 **Thoughts**: Need to look at Ajax , looks like easier to manipulate API with this?
+
+### Day 22: - 23 January 2017
+
+**Today's Progress**: Worked on 'wherefore art thou' challenge (or not as it felt like!).
+
+**Thoughts**: Need to look at 'keys' and 'hasOwnProperty' again.
+
+
