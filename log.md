@@ -144,10 +144,14 @@
 
 **Thoughts**: Need to look at Ajax , looks like easier to manipulate API with this?
 
-### Day 22: - 23 January 2017
+### Day 22: - 24 January 2017
 
 **Today's Progress**: Worked on 'wherefore art thou' challenge (or not as it felt like!).
 
 **Thoughts**: Need to look at 'keys' and 'hasOwnProperty' again.
 
+### Day 23: - 25 January 2017
 
+**Today's Progress**: Worked on using Bootstrap grid design.
+
+**Thoughts**: Slow day but turned up.
