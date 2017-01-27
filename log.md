@@ -155,3 +155,9 @@
 **Today's Progress**: Worked on using Bootstrap grid design.
 
 **Thoughts**: Slow day but turned up.
+
+### Day 24: - 26 January 2017
+
+**Today's Progress**: Worked on 'wherefore art thou' challenge. Learning cure steep and level of difficulty going up exponentially!
+
+**Thoughts**: Take time and understand,consolodate.Take a week on this if needed.
