@@ -161,3 +161,10 @@
 **Today's Progress**: Worked on 'wherefore art thou' challenge. Learning cure steep and level of difficulty going up exponentially!
 
 **Thoughts**: Take time and understand,consolodate.Take a week on this if needed.
+
+### Day 25: - 28 January 2017
+
+**Today's Progress**: Worked on 'wherefore art thou' challenge. Slowing down to make sure I undertstand, make real progress!
+
+**Thoughts**: Take time and understand,consolodate.
+
