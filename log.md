@@ -168,3 +168,8 @@
 
 **Thoughts**: Take time and understand,consolodate.
 
+### Day 26: - 29 January 2017
+
+**Today's Progress**: Worked on local weather challenge on freecodecamp. Worked on $getJSON, making progress (still not working though!)
+
+**Thoughts**: Getting there , need to find how to feed variables into getJSON requests.
