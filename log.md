@@ -173,3 +173,9 @@
 **Today's Progress**: Worked on local weather challenge on freecodecamp. Worked on $getJSON, making progress (still not working though!)
 
 **Thoughts**: Getting there , need to find how to feed variables into getJSON requests.
+
+### Day 27: - 30 January 2017
+
+**Today's Progress**: Finished 'where art are though' @freeCodaeCamp. Needed a lot of help, but understand now (still think could add a couple of tutorials somewhere!)
+
+**Thoughts**: Learned by reading code.Need to look at more and more code.
