@@ -179,3 +179,9 @@
 **Today's Progress**: Finished 'where art are though' @freeCodaeCamp. Needed a lot of help, but understand now (still think could add a couple of tutorials somewhere!)
 
 **Thoughts**: Learned by reading code.Need to look at more and more code.
+
+### Day 28: - 31 January 2017
+
+**Today's Progress**: Worked on local weather challenge @freeCodeCamp. Need to get location variable to feed into weather API query.
+
+**Thoughts**: Just keep going.
