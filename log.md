@@ -185,3 +185,9 @@
 **Today's Progress**: Worked on local weather challenge @freeCodeCamp. Need to get location variable to feed into weather API query.
 
 **Thoughts**: Just keep going.
+
+### Day 29: - 01 Feb 2017
+
+**Today's Progress**: Worked on local weather challenge @freeCodeCamp. Got location variable to feed into weather API query, finally!
+
+**Thoughts**: Works if understand it, dont guess.
