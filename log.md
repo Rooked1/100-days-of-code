@@ -191,3 +191,10 @@
 **Today's Progress**: Worked on local weather challenge @freeCodeCamp. Got location variable to feed into weather API query, finally!
 
 **Thoughts**: Works if understand it, dont guess.
+
+### Day 30: - 02 Feb 2017
+
+**Today's Progress**: Worked on Search and Replace challenge on freeCodeCamp. Making progress!
+
+**Thoughts**: Write and re-write until you know. You need a vocabulary.
+
