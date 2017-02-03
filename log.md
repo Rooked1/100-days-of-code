@@ -198,3 +198,8 @@
 
 **Thoughts**: Write and re-write until you know. You need a vocabulary.
 
+### Day 31: - 03 Feb 2017
+
+**Today's Progress**: Reviewed Bootstrap lessons. Worked on weather app.
+
+**Thoughts**: Friday backshift is a challenge.
