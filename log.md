@@ -203,3 +203,9 @@
 **Today's Progress**: Reviewed Bootstrap lessons. Worked on weather app.
 
 **Thoughts**: Friday backshift is a challenge.
+
+### Day 32: - 04 Feb 2017
+
+**Today's Progress**: Completed 'Search and Replace' challenge on freeCodeCamp. Almost by accident tbh, they all count though!
+
+**Thoughts**: Need to think about what methods work / differences between array/object strings.
