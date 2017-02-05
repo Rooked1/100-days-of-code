@@ -209,3 +209,16 @@
 **Today's Progress**: Completed 'Search and Replace' challenge on freeCodeCamp. Almost by accident tbh, they all count though!
 
 **Thoughts**: Need to think about what methods work / differences between array/object strings.
+
+### Day 33: - 05 Feb 2017
+
+**Today's Progress**: Completed 'Pig Latin' challenge on freeCodeCamp. First time ever completed in a day!
+
+**Thoughts**: Got it to work but need to go back and check why loop didnt work to make it neater.
+
+### Day 32: - 04 Feb 2017
+
+**Today's Progress**: Completed 'Search and Replace' challenge on freeCodeCamp. Almost by accident tbh, they all count though!
+
+**Thoughts**: Need to think about what methods work / differences between array/object strings.
+
