@@ -216,9 +216,10 @@
 
 **Thoughts**: Got it to work but need to go back and check why loop didnt work to make it neater.
 
-### Day 32: - 04 Feb 2017
+### Day 34: - 06 Feb 2017
 
-**Today's Progress**: Completed 'Search and Replace' challenge on freeCodeCamp. Almost by accident tbh, they all count though!
+**Today's Progress**: Worked on freeCodeCamp 'DNA Pairing challenge'. Slow progress today, busy with other stuff, need to plan better.
 
-**Thoughts**: Need to think about what methods work / differences between array/object strings.
+**Thoughts**: Kept on going.
+
 
