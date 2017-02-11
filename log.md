@@ -222,4 +222,9 @@
 
 **Thoughts**: Kept on going.
 
+### Day 35: - 10 Feb 2017
+
+**Today's Progress**: Went back and reviewed some basic Javascript. Didnt post update yesterday!
+
+**Thoughts**: Missed three days , will miss a couple due to holiday then back at it.
 
