@@ -228,3 +228,8 @@
 
 **Thoughts**: Missed three days , will miss a couple due to holiday then back at it.
 
+### Day 36: - 11 Feb 2017
+
+**Today's Progress**: Completed 'DNA pairing' challenge. Keep on Going!
+
+**Thoughts**: Off days next couple of days then re-commit next week.
